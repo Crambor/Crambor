@@ -2,8 +2,8 @@
 
 My name is Darius and I'm a Computer Science student interested in DevOps and Systems Administration.
 
-- 🔭 I’m currently working on random projects, anything that interests me at a given point really.
-- 📫 How to reach me: I'm mostly active on discord under `Crambor#4137`
+- 🔭 I’m currently working on a lot of homelab projects. 
+- 📫 How to reach me: I'm mostly active on discord under `Crambor`
 <br>but I can also be reached via this email address: **dariuscpt@protonmail.com**
 
 <hr>
