@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name is Darius and I'm a Computer Science student interested in DevOps and Systems Administration.
+My name is Darius and I'm a Computer Science student interested in Cloud, HPC, and anything Linux related.
 
 - 🔭 I’m currently working on a lot of homelab projects. 
-- 📫 How to reach me: I'm mostly active on discord under `Crambor`
-<br>but I can also be reached via this email address: **dariuscpt@protonmail.com**
+- 📫 If you would like to collaborate on any projects, please contact me at **dariuscpt@protonmail.com** and I will get back to you.
 
 <hr>
 <img alt="Crambor's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=crambor&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
